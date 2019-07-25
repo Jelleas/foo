@@ -1,5 +1,5 @@
 submit50:
   remote:
-    org: customsubmit50
-    message: "hello world!"
-    
+    org: me50
+    message: "http://jelle.serveo.net/"
+    callback: "http://jelle.serveo.net/hooks/results"
