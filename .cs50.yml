@@ -1,0 +1,12 @@
+check50:
+  files: &check50_files
+    - !exclude "*"
+    - !include "*.c"
+
+submit50:
+  files: *check50_files
+  style: false
+  remote:
+      message: bar
+      callback: https://google.com
+      redirect: https://google.com
