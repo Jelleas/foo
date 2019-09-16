@@ -1,5 +1,1 @@
-submit50:
-  remote:
-    org: me50
-    message: "http://jelle.serveo.net/"
-    callback: "http://jelle.serveo.net/hooks/results"
+check50: true
