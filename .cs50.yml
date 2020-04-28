@@ -1,1 +1,5 @@
 check50: true
+submit50:
+  files:
+    - !require "hello.c"
+  honesty: "my custom honesty prompt"
