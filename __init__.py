@@ -1,6 +1,6 @@
 import check50
 
-this is invalid syntax
+# this is invalid syntax
 
 @check50.check()
 def dummy():
